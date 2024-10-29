@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "start": "react-scripts start"
   },
   "keywords": [],
   "author": "",
@@ -23,6 +24,7 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
+    "@aws-amplify/ui-react": "^6.5.5",
     "@babel/plugin-transform-class-properties": "^7.25.9",
     "@babel/plugin-transform-object-rest-spread": "^7.25.9",
     "aws-amplify": "^6.6.7",
