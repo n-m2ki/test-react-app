@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "testreactapp1667a030": {}
+      },
+      "api": {
+        "testreactapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
